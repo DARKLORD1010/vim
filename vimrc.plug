@@ -1,0 +1,9 @@
+call plug#begin('~/.vim/plugged')
+Plug 'scrooloose/nerdtree'
+Plug 'ap/vim-css-color'
+Plug 'vim-scripts/AutoComplPop'
+Plug 'itchyny/lightline.vim'
+Plug 'jiangmiao/auto-pairs'
+Plug 'airblade/vim-gitgutter'
+Plug 'sainnhe/everforest'
+call plug#end()
